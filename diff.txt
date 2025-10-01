@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dream Hub Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Dream Hub Library</h1>
+        <p>पढ़ाई का सही स्थान – शांति और सुविधा के साथ</p>
+        <p>सिसवा बाजार, महाराजगंज, यूपी</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Dream Hub Library</h2>
+        <p>यहां आपको मिलता है शांत वातावरण, रिजर्व और शिफ्ट वाइज सीटिंग, और आधुनिक सुविधाएं।</p>
+    </section>
+
+    <section>
+        <h2>सीट बुक करें</h2>
+        <p>40 सीटें — रिजर्व + शिफ्ट वाइज सीटिंग सुविधा उपलब्ध।</p>
+        <button onclick="window.location.href='tel:+917379482772'">अब सीट बुक करें</button>
+    </section>
+
+    <section>
+        <h2>टाइमिंग</h2>
+        <p>सुबह 6 बजे – रात 10 बजे तक (शिफ्ट अनुसार)।</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Dream Hub Library | Contact: +91-7379482772</p>
+    </footer>
+
+</body>
+</html>
